@@ -6,7 +6,7 @@ stl.markdown('''
              A Miniature Currency Converter App
              ''')
 
-image = Image.open('ML1.jpeg')
+image = Image.open('Currency_Converter_App_Cover.jpg')
 stl.image(image, width=490, caption='source: Bing Image Creator')
 
 #img = Image.open('ML2.jpeg')
